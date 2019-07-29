@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Debug\LOL-TFT.exe.config
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Debug\LOL-TFT.exe
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Debug\LOL-TFT.pdb
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT_MarkupCompile.cache
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT.g.resources
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT.exe
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\LOL-TFT.pdb
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Debug\App.baml

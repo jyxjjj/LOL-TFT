@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Release\LOL-TFT.exe.config
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Release\LOL-TFT.exe
+C:\Users\Administrator\Desktop\tft\LOL-TFT\bin\Release\LOL-TFT.pdb
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\App.baml
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\LOL-TFT_MarkupCompile.cache
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\LOL-TFT.g.resources
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\LOL-TFT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\LOL-TFT.exe
+C:\Users\Administrator\Desktop\tft\LOL-TFT\obj\Release\LOL-TFT.pdb
