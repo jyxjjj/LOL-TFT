@@ -1,13 +1,6 @@
 # LOL-TFT
 英雄联盟云顶之弈助手
 
-# 已迁移
-多次迁移过程中
+# 已归档
 
-暂无法提供准确的项目地址
-
-且本项目已归档并不再更新
-
-如有需要
-
-您可以在本账户下的其他存储库中搜索该项目
+可在此处找到 [af5a9438ffc4afdf68d4bd9644512071c80bd18c](https://github.com/jyxjjj/LOL-TFT/commit/af5a9438ffc4afdf68d4bd9644512071c80bd18c)
